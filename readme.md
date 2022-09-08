@@ -6,7 +6,7 @@
 </p>
 <br><br>
 
-<h1 align="center" <a href="https://theme-dark-white.netlify.app/">Site no netlify</a></h1>
+<a href="https://theme-dark-white.netlify.app/"><h1 align="center"> Site no netlify</h1></a>
 
 <br><br>
 <h4 align="center"> 
