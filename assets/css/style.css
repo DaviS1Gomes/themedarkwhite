@@ -46,36 +46,47 @@ body.dark {
 @media only screen and (max-width: 1700px) {
     .border-button{
         left: 42.5%;
+       transition: 0.2s ease-in-out;
     }
   }
 @media only screen and (max-width: 1400px){
     .border-button{
         left: 41%;
+        transition: 0.2s ease-in-out;
+
     }
   }
 @media only screen and (max-width: 900px){
     .border-button{
         left: 37.5%;
+        transition:  0.2s ease-in-out;
+        
     }
   }
 @media only screen and (max-width: 700px){
     .border-button{
         left: 26%;
+        transition: 0.2s ease-in-out;
+
     }
   }
 @media only screen and (max-width: 500px){
     .border-button{
         left: 20%;
+        transition: 0.2s ease-in-out;
     }
   }
 @media only screen and (max-width: 400px){
     .border-button{
         left: 21.5%;
+        transition: 0.2s ease-in-out;
     }
   }
 @media only screen and (max-width: 300px){
     .border-button{
         left: 12.5%;
+        transition: 0.2s ease-in-out;
+
     }
   }
 
