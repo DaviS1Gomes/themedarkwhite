@@ -1,8 +1,8 @@
 <h1 align="center">Projeto Theme Dark/White</h1>
 <p align="center">Um projeto para integrar o DOM, básico e para estudos, simples mas muito utilizado nos dias atuais. </p>
 <p align="center">
- <a href="#objetivo">Objeto é consegui fazer um site responsivo com html/css e integrar com JavaScript para reforça as exercicios</a> •
- <a href="#tecnologias">Tecnologias utilizadas foram HTML/CSS e JavaScript</a> • 
+ Objeto é consegui fazer um site responsivo com html/css e integrar com JavaScript para reforça as exercicios
+ Tecnologias utilizadas foram HTML/CSS e JavaScript
 </p>
 
 <h1 align="center">
