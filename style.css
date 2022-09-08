@@ -1,0 +1,92 @@
+
+.border-button{
+    position: absolute;
+    display: flex;
+    width: 225px;
+    background-color: black;
+    border-radius: 60px;
+    justify-content: space-between;
+    align-items: center;
+    transform: translate(0, -50%);
+    top: 50%;
+    left: 42.5%;
+}
+
+.border-button img{
+    display: flex;
+    width: 40%;
+    margin: 0px;
+}
+.button{
+    position: absolute;
+    background-color: white;
+    z-index: 2;
+    display: flex;
+    width: 35%;
+    height: 86%;
+    border-radius: 100%;
+    margin: 7px;
+    transition: transform 0.2s linear;
+}
+
+.button:hover{
+    cursor: pointer;
+}
+.button.animation{
+    transition: transform 0.2s linear;
+    transform: translateX(132px);
+}
+body{
+    background-color: white;
+}
+body.dark {
+    background-color: #292C35 ;
+}
+
+@media only screen and (max-width: 1700px) {
+    .border-button{
+        left: 42.5%;
+       transition: 0.2s ease-in-out;
+    }
+  }
+@media only screen and (max-width: 1400px){
+    .border-button{
+        left: 41%;
+        transition: 0.2s ease-in-out;
+
+    }
+  }
+@media only screen and (max-width: 900px){
+    .border-button{
+        left: 37.5%;
+        transition:  0.2s ease-in-out;
+        
+    }
+  }
+@media only screen and (max-width: 700px){
+    .border-button{
+        left: 26%;
+        transition: 0.2s ease-in-out;
+
+    }
+  }
+@media only screen and (max-width: 500px){
+    .border-button{
+        left: 20%;
+        transition: 0.2s ease-in-out;
+    }
+  }
+@media only screen and (max-width: 400px){
+    .border-button{
+        left: 21.5%;
+        transition: 0.2s ease-in-out;
+    }
+  }
+@media only screen and (max-width: 300px){
+    .border-button{
+        left: 12.5%;
+        transition: 0.2s ease-in-out;
+
+    }
+  }
+
