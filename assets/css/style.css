@@ -17,6 +17,10 @@
     width: 40%;
     margin: 0px;
 }
+
+.border-button.white{
+    background-color: white;
+}
 .button{
     position: absolute;
     background-color: white;
@@ -29,11 +33,13 @@
     transition: transform 0.2s linear;
 }
 
+
 .button:hover{
     cursor: pointer;
 }
 .button.animation{
-    transition: transform 0.2s linear;
+    background-color: #292C35;
+    transition: 0.2s linear;
     transform: translateX(132px);
 }
 body{
